@@ -17,7 +17,7 @@ body{
 .divider{
   height: 150px;
   width:2px;
-  background-color: #C0C9CE;
+  background-color: #fed626;
   position: relative;
   top: 50%;
   float: left;
@@ -25,7 +25,7 @@ body{
 }
 
 #background-stats-1{
-  background-color: #2196f3;
+  background-color: #fed626;
 }
 
 #background-stats-2{
@@ -95,7 +95,7 @@ body{
 }
 
 #choice .choice.cats{
-  color: #000000;
+  color: #cccccc;
   float: left;
 }
 #background-stats{
